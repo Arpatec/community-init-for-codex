@@ -1,0 +1,7 @@
+interface:
+  display_name: "Init Orchestrator"
+  short_description: "Lancer un /init complet pour un repo"
+  default_prompt: "Use $init-orchestrator to initialize this repository context by scanning the project and setting up working memory."
+
+policy:
+  allow_implicit_invocation: true
