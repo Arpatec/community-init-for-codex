@@ -1,0 +1,7 @@
+interface:
+  display_name: "Context Update"
+  short_description: "Rafraichir la memoire d'un repo existant"
+  default_prompt: "Use $context-update to refresh this repository memory from the current state of the codebase."
+
+policy:
+  allow_implicit_invocation: true

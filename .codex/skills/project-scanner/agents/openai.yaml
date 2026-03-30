@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Scanner"
+  short_description: "Scanner un repo et poser sa base documentaire"
+  default_prompt: "Use $project-scanner to analyse this repository and create or refresh the core project context files."
+
+policy:
+  allow_implicit_invocation: true
