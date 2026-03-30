@@ -1,7 +1,0 @@
-interface:
-  display_name: "Work Memory"
-  short_description: "Maintenir la memoire vivante du projet"
-  default_prompt: "Use $work-memory to review the current project memory and update it after this non-trivial task."
-
-policy:
-  allow_implicit_invocation: true
