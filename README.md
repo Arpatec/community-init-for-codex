@@ -218,15 +218,6 @@ Ce projet est distribue sous licence Apache-2.0.
 
 Si vous le reutilisez, le modifiez ou le redistribuez, conservez la licence, les notices et le fichier `NOTICE` afin de preserver la trace du projet d'origine.
 
-## Publication GitHub recommande
-
-Pour publier proprement :
-
-1. initialiser le depot Git local
-2. choisir une licence explicite
-3. pousser le repo sur GitHub avec ce README
-4. ajouter quelques captures ou exemples reels d'utilisation plus tard si besoin
-
 ## En une phrase
 
 Un kit simple pour donner a Codex et aux autres LLM une logique communautaire de type `/init`, renforcee par une memoire projet persistante.
